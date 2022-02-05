@@ -1,9 +1,11 @@
 [submodule "kobuss"]
 	path = kobuss
 	url = git@github.com:KoBussLLC/grabert-hardware.git
+	branch = main
 [submodule "Apollo87H"]
 	path = Apollo87H
 	url = git@github.com:AcheronProject/Apollo87H.git
+	branch = main
 [submodule "Keebio-Parts.pretty"]
 	path = Keebio-Parts.pretty
 	url = git@github.com:keebio/Keebio-Parts.pretty.git
