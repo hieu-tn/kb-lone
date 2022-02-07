@@ -18,3 +18,23 @@
 [submodule "AlexandriaLibrary"]
 	path = AlexandriaLibrary
 	url = git@github.com:AcheronProject/AlexandriaLibrary.git
+[submodule "macropad"]
+	path = macropad
+	url = git@github.com:Forge-Media/ai03-macropad-pcb.git
+	branch = main
+[submodule "kicad-keyboard-parts.pretty"]
+	path = kicad-keyboard-parts.pretty
+	url = git@github.com:ebastler/kicad-keyboard-parts.pretty.git
+[submodule "kobuss-kicad-library"]
+	path = kobuss-kicad-library
+	url = git@github.com:KoBussLLC/kobuss-kicad-library.git
+	branch = main
+[submodule "acheron_MountingHoles.pretty"]
+	path = acheron_MountingHoles.pretty
+	url = git@github.com:AcheronProject/acheron_MountingHoles.pretty.git
+[submodule "acheron_Connectors.pretty"]
+	path = acheron_Connectors.pretty
+	url = git@github.com:AcheronProject/acheron_Connectors.pretty.git
+[submodule "Athena"]
+	path = Athena
+	url = git@github.com:AcheronProject/Athena.git

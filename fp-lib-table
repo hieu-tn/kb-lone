@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "acheron_Graphics")(type "KiCad")(uri "${KIPRJMOD}/Apollo87H/kicad_files/libraries/acheron_Graphics.pretty")(options "")(descr ""))
+  (lib (name "acheron_Hardware")(type "KiCad")(uri "${KIPRJMOD}/Apollo87H/kicad_files/libraries/acheron_Hardware.pretty")(options "")(descr ""))
+  (lib (name "acheron_MXH_MetalRings")(type "KiCad")(uri "${KIPRJMOD}/Apollo87H/kicad_files/libraries/acheron_MXH_MetalRings.pretty")(options "")(descr ""))
+  (lib (name "apollo87h_kicad_library")(type "KiCad")(uri "${KIPRJMOD}/Apollo87H/kicad_files/libraries/apollo87h_kicad_library.pretty")(options "")(descr ""))
+  (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/Apollo87H/kicad_files/libraries/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "kicad-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/kicad-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "kobuss-footprint")(type "KiCad")(uri "${KIPRJMOD}/kobuss-kicad-library/kobuss-footprint.pretty")(options "")(descr ""))
+  (lib (name "acheron_MountingHoles")(type "KiCad")(uri "${KIPRJMOD}/acheron_MountingHoles.pretty")(options "")(descr ""))
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/acheron_Connectors.pretty")(options "")(descr ""))
+)
