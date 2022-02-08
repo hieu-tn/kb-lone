@@ -38,3 +38,4 @@
 [submodule "Athena"]
 	path = Athena
 	url = git@github.com:AcheronProject/Athena.git
+	branch = main
