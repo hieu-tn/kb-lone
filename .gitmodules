@@ -6,25 +6,9 @@
 	path = Apollo87H
 	url = git@github.com:AcheronProject/Apollo87H.git
 	branch = main
-[submodule "Keebio-Parts.pretty"]
-	path = Keebio-Parts.pretty
-	url = git@github.com:keebio/Keebio-Parts.pretty.git
-[submodule "keebio-components"]
-	path = keebio-components
-	url = git@github.com:keebio/keebio-components.git
-[submodule "kicad_lib_tmk"]
-	path = kicad_lib_tmk
-	url = git@github.com:tmk/kicad_lib_tmk.git
 [submodule "AlexandriaLibrary"]
 	path = AlexandriaLibrary
 	url = git@github.com:AcheronProject/AlexandriaLibrary.git
-[submodule "macropad"]
-	path = macropad
-	url = git@github.com:Forge-Media/ai03-macropad-pcb.git
-	branch = main
-[submodule "kicad-keyboard-parts.pretty"]
-	path = kicad-keyboard-parts.pretty
-	url = git@github.com:ebastler/kicad-keyboard-parts.pretty.git
 [submodule "kobuss-kicad-library"]
 	path = kobuss-kicad-library
 	url = git@github.com:KoBussLLC/kobuss-kicad-library.git
