@@ -16926,7 +16926,7 @@
     (pin "3" (uuid a7b54689-2597-462a-b1c5-f85b578104b4))
     (pin "4" (uuid 5670868a-206e-4158-a159-6649e89ebb07))
     (pin "5" (uuid e80fb329-49f9-47d2-b274-f8dc8f0eb8cb))
-    (pin "6" (uuid 7fc4c711-7094-4cbb-aa91-1183b93167d3))
+    (pin "6" (uuid af07033b-591e-45ff-97a3-12386b40a7f4))
   )
 
   (symbol (lib_id "power:GND") (at 745.49 748.665 0) (unit 1)

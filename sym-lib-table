@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "acheronSymbols")(type "KiCad")(uri "${KIPRJMOD}/AlexandriaLibrary/symbols/acheronSymbols.kicad_sym")(options "")(descr ""))
+  (lib (name "kobuss")(type "Legacy")(uri "${KIPRJMOD}/kobuss-kicad-library/kobuss-symbols/kobuss.lib")(options "")(descr ""))
 )
