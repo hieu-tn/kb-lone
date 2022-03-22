@@ -23,3 +23,6 @@
 	path = Athena
 	url = git@github.com:AcheronProject/Athena.git
 	branch = main
+[submodule "acheron_Hardware.pretty"]
+	path = acheron_Hardware.pretty
+	url = git@github.com:AcheronProject/acheron_Hardware.pretty.git
