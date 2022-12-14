@@ -26,3 +26,9 @@
 [submodule "acheron_Hardware.pretty"]
 	path = acheron_Hardware.pretty
 	url = git@github.com:AcheronProject/acheron_Hardware.pretty.git
+[submodule "Unified-Daughterboard"]
+	path = Unified-Daughterboard
+	url = git@github.com:Unified-Daughterboard/Unified-Daughterboard.git
+[submodule "Raphael"]
+	path = Raphael
+	url = git@github.com:AcheronProject/Raphael.git
